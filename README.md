@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Ajay 👋
 
-<!--
-**ajeyajaz/ajeyajaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Developer (MERN)
 
-Here are some ideas to get you started:
+I build scalable web applications using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- Frontend: React.js, Redux, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Languages: JavaScript, TypeScript
+
+---
+
+## 🔥 Projects
+
+### 🎬 Video Streaming Platform
+- JWT Authentication, Role-based access
+- Likes, Comments, Views system  
+- Cloudinary media uploads  
+
+🔗 Live: (add link)  
+💻 GitHub: (add link)
+
+---
+
+### 🛒 E-Commerce App (ShoppyGlobe)
+- Product catalog, cart, checkout  
+- Secure authentication & protected routes  
+
+🔗 Live: (add link)  
+💻 GitHub: (add link)
+
+---
+
+## 📫 Contact Me
+
+- LinkedIn: https://linkedin.com/in/ajeyajaz  
+- Email: ajeyajaz@gmail.com
